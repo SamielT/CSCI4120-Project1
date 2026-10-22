@@ -1,0 +1,3 @@
+[submodule "ModuleA"]
+	path = ModuleA
+	url = https://github.com/jameson-m-jolley/Project1-ModuleA
