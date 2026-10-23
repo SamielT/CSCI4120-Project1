@@ -16,3 +16,29 @@ In conclusion, you should just use a number  that is equal to the number of core
 
 
 neofetch:
+        _,met$$$$$gg.          wsl@Zephyr
+     ,g$$$$$$$$$$$$$$$P.       ----------
+   ,g$$P""       """Y$$.".     OS: Debian GNU/Linux 12.15 (bookworm) x86_64
+  ,$$P'              `$$$.     Host: Windows Subsystem for Linux - Debian (2.7.13.0)
+',$$P       ,ggs.     `$$b:    Kernel: Linux 6.18.33.2-microsoft-standard-WSL2
+`d$$'     ,"'   .    $$$       Uptime: 5 mins
+ $$P      d     ,    $$P       Packages: 2300 (dpkg)
+ $$:      $   -    ,d$$'       Shell: bash 5.2.15
+ $$;      Y._   _,d'           Display (1): 1920x1080 in 22", 60 Hz
+ Y$$.    `.`"Y$$$$P"'          Display (2): 1920x1080, 60 Hz
+ `$$b      "-.__               Window Manager: WSLg 1.0.73.2 (Wayland)
+  `Y$$b                        Terminal: xterm-256color
+   `Y$$.                       CPU: AMD Ryzen 9 7940HS (16) @ 3.99 GHz
+     `$$b.                     GPU 1: NVIDIA GeForce RTX 4060 Laptop GPU @ 3.10 GHz (7.77 GiB) [Discrete]
+       `Y$$b.                  GPU 2: AMD Radeon 780M Graphics (417.12 MiB) [Integrated]
+         `"Y$b._               Memory: 708.10 MiB / 15.23 GiB (5%)
+             `""""             Swap: 0 B / 4.00 GiB (0%)
+                               Disk (/): 63.31 GiB / 1006.85 GiB (6%) - ext4
+                               Disk (/mnt/c): 386.50 GiB / 475.96 GiB (81%) - 9p
+                               Disk (/mnt/d): 808.11 GiB / 953.85 GiB (85%) - 9p
+                               Local IP (eth0): 172.28.93.191/20
+                               Battery (Microsoft Hyper-V Virtual Battery): 13% [AC Connected, Charging]
+                               Locale: en_US.UTF-8
+                               
+                               [40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+                               [100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
