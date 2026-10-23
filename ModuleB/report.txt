@@ -1,0 +1,18 @@
+
+
+
+names: 800681718_SamielThai; 800816639_JamesonJolley; 800644682_ChristopherDickerson
+
+
+
+report:
+
+The graph is U-shaped; we get the max performance at a process count of 32.
+This is most likely due to the processor count on the system we tested.
+Although we can't see any variance in the execution times, the 99th percentile
+of each run could be wildly different. We see that the overhead of spawning 1024
+makes the execution times of the function almost as much as the serial computation.
+In conclusion, you should just use a number  that is equal to the number of cores in your system or less
+
+
+neofetch:
